@@ -13,7 +13,7 @@ header.masthead
 
 .modal-content
 {
-	background-color: rgba(119, 123, 128, .9);
+	
 	color: white;
 	font-weight: 100;
 }
@@ -174,7 +174,7 @@ label
 
 	#user_profile_modal .modal-content
 	{
-		background-color: white;
+		
 		color: #212529;
 	}
 
@@ -186,7 +186,7 @@ label
 
 	#user_modal .modal-content, #izlet .modal-content
 	{
-		background-color: white;
+		
 		color: #212529;
 	}
 
